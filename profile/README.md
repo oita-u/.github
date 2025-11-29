@@ -1,12 +1,39 @@
-## Hi there 👋
+# Oita University Unofficial Computer Science and Intelligent Systems Tech Group
 
-<!--
+このアカウントでは、大分大学・知能情報システムプログラムの有志メンバーによる非公式プロジェクトを公開しています。
 
-**Here are some ideas to get you started:**
+研究・学習の一環として、実験的なAPI開発やWebアプリケーション開発を中心に活動しています。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About Us
+
+- 大分大学・知能情報システムプログラムの学生が主体の非公式グループ
+- ソフトウェア開発・AI・分散システム・Web技術など幅広い領域に興味を持つメンバーで構成
+- 趣味と実践を兼ねたプロトタイプ開発や研究補助ツールの作成を主な活動としている
+
+## What We Build
+
+現在はまだ多くのプロジェクトが準備段階ですが、これから徐々にAPI、Webアプリ、研究補助ツールなどを充実させていく予定です。
+
+- 便利なAPI
+
+  - シラバス情報取得API（学習計画用）
+  - 学生個人データ管理API（個人の時間割・成績管理ツール向け）
+  - 大学生活を便利にするためのAPI
+  
+- Web Applications
+
+  - コース内の活動をサポートする小規模Webサービス
+  - データ可視化・管理系の実験的アプリ
+- Experimental Tools
+
+  - 新技術の検証用プロトタイプ
+  - 演習や研究で使えるツール群
+
+
+## Contribution
+
+内部メンバーを中心に開発を進めていますが、提案・Issue・Pull Request は歓迎しています。
+
+## Disclaimer
+
+このアカウントは大分大学の非公式プロジェクトです。大学の公式見解を示すものではありません。
